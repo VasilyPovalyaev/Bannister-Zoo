@@ -1,0 +1,15 @@
+com.example.dottie_app-jetified-window-1.0.0-beta04-0 /home/vasily/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.dottie_app-jetified-annotation-experimental-1.1.0-1 /home/vasily/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.dottie_app-core-1.6.0-2 /home/vasily/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.dottie_app-jetified-window-java-1.0.0-beta04-3 /home/vasily/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.dottie_app-webkit-1.6.1-4 /home/vasily/.gradle/caches/transforms-3/fbde3087ed810297459ac43dc5e873e6/transformed/webkit-1.6.1/res
+com.example.dottie_app-debug-5 /home/vasily/Projects/dottie_app/android/app/src/debug/res
+com.example.dottie_app-main-6 /home/vasily/Projects/dottie_app/android/app/src/main/res
+com.example.dottie_app-pngs-7 /home/vasily/Projects/dottie_app/build/app/generated/res/pngs/debug
+com.example.dottie_app-resValues-8 /home/vasily/Projects/dottie_app/build/app/generated/res/resValues/debug
+com.example.dottie_app-rs-9 /home/vasily/Projects/dottie_app/build/app/generated/res/rs/debug
+com.example.dottie_app-mergeDebugResources-10 /home/vasily/Projects/dottie_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.dottie_app-mergeDebugResources-11 /home/vasily/Projects/dottie_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.dottie_app-merged_res-12 /home/vasily/Projects/dottie_app/build/app/intermediates/merged_res/debug
+com.example.dottie_app-packaged_res-13 /home/vasily/Projects/dottie_app/build/network_info_plus/intermediates/packaged_res/debug
+com.example.dottie_app-packaged_res-14 /home/vasily/Projects/dottie_app/build/webview_flutter_android/intermediates/packaged_res/debug
